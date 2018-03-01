@@ -4,3 +4,4 @@ src
 lib
 config
 build-dev
+package-lock.json

@@ -17,7 +17,8 @@
     "morgan": "^1.7.0",
     "object-assign": "4.1.0",
     "react": "^16.1.1",
-    "react-dom": "^16.1.1"
+    "react-dom": "^16.1.1",
+    "react-promise": "^2.0.1"
   },
   "engine": {
     "node": "*",
